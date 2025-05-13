@@ -1,0 +1,2 @@
+# tgtarotbot
+TG tarot bot 
